@@ -1,0 +1,20 @@
+title: Podcast
+data:
+  title: 'The 217 Business Podcast'
+  cover_art: artwork/217-Business-Podcast-Logo-1646089257.jpg
+  description: 'Encouraging and connecting business leaders in Central Illinois.'
+  type: desc
+  primary_category: Business
+  secondary_category: 'Business » Management'
+  keywords:
+    - Illinois
+    - 'Business Stories'
+  spoken_language: en
+  author: 'Ryan Hayden'
+  copyright: '© {{ now format="Y" }} Ryan Hayden'
+  owner_email: ryan@buildonline.co
+  explicit: false
+  itunes_block: false
+  google_block: false
+  locked: false
+  complete: false
