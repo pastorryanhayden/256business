@@ -17,7 +17,7 @@ bard_field:
     content:
       -
         type: text
-        text: 'The 217 Business Podcast exists to encourage and connect business leaders and entrepreneurs across Central Illinois.  We believe that every business leader has a story to tell and wisdom to share, and we want to see more people starting sustainable and profitable businesses in Central Illinois.'
+        text: 'The 256 Business Podcast exists to shine a light on the businesses that make our area great, by interviewing business founders and owners in Northern Alabama.  We believe that every business leader has a story to tell and wisdom to share, and we want to see more people starting sustainable and profitable businesses in Northern Alabama.'
   -
     type: heading
     attrs:
@@ -25,21 +25,35 @@ bard_field:
     content:
       -
         type: text
-        text: 'Who is Ryan Hayden?'
+        text: 'Who is Brian McLaughlin?'
   -
     type: paragraph
     content:
       -
         type: image
         attrs:
-          src: 'asset::assets::_V4A6518-small.jpeg.sb-58f42f4c-49AUVc'
-          alt: 'Ryan Hayden'
+          src: 'asset::assets::IMG_3444.jpg'
+          alt: 'Brian McLaughlin'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ryan Hayden came to Illinois over ten years ago to be a pastor (he still serves as a pastor at Bible Baptist in Mattoon) and started a web design agency to make some extra money.  Over the last few years, that agency (buildonline.io) has grown into a serious and profitable business with over twenty employees and clients all over the world.'
+        text: 'Brian McLaughlin is a lifetime resident of Northern Alabama.  After college and grad school, Brian served for a short time in a church in Indiana before returning home and pastoring in Decatur for over ten years.  Brian has founded several companies and apps, and been involved in several cryptocurrency projects.  Currently, he is a project manager for '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://buildonline.io'
+              rel: null
+              target: null
+              title: null
+        text: 'Build Online'
+      -
+        type: text
+        text: ', where he helps businesses and entrepreneurs level up their business online.'
   -
     type: heading
     attrs:
@@ -78,7 +92,7 @@ bard_field:
     content:
       -
         type: text
-        text: 'A typical interview lasts between 7 and 15 minutes.  Plan on allocating a total time of a half hour so we have plenty of time for setup and to talk before and after.'
+        text: 'A typical interview lasts between 10 and 30 minutes.  Plan on allocating a total time of  45 minutes so we have plenty of time for setup and to talk before and after.'
   -
     type: heading
     attrs:
@@ -156,7 +170,7 @@ bard_field:
     content:
       -
         type: text
-        text: 'In most cases nothing.  Ryan will come to your location with all the audio equipment needed.  '
+        text: 'In most cases nothing.  Brian will come to your location with all the audio equipment needed.  '
       -
         type: text
         marks:
@@ -177,7 +191,7 @@ bard_field:
         text: 'So please consider your backdrop'
       -
         type: text
-        text: '.  If you are uncomfortable being filmed at your location, we can conduct the interview at Elevate in Mattoon.  If you would rather do it online, we can record it from our various desks (although we much prefer to come to your location.)'
+        text: '.  If you would rather do it online, we can record it from our various desks (although we much prefer to come to your location.)'
 updated_by: 674c22e2-392f-4264-95b6-0d113d0bdcf1
-updated_at: 1646171467
+updated_at: 1648073239
 ---
