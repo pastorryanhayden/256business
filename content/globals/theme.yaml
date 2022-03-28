@@ -13,5 +13,5 @@ data:
       name: Email
       url: 'mailto:shout@jackmcdade.com'
       icon: theme/social/email.svg
-  primary_color: '#B10021'
-  secondary_color: '#178D26'
+  primary_color: '#003D7C'
+  secondary_color: '#F38025'

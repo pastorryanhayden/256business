@@ -78,7 +78,7 @@ bard_field:
         text: 'Click here to sign up,'
       -
         type: text
-        text: ' or click the "Get on the Show" button at the top of this page, it will take you to a calendy page where you can pick a time that works best for both you and Ryan''s schedule.  '
+        text: ' or click the "Get on the Show" button at the top of this page, it will take you to a calendy page where you can pick a time that works best for both you and Brian''s schedule.  '
   -
     type: heading
     attrs:
@@ -114,7 +114,7 @@ bard_field:
     content:
       -
         type: text
-        text: 'The interview will start by you telling who you are and telling us about your business.  Ryan might ask some follow up questions to make sure the listeners understand what you do.'
+        text: 'The interview will start by you telling who you are and telling us about your business.  Brian might ask some follow up questions to make sure the listeners understand what you do.'
   -
     type: heading
     attrs:
@@ -142,7 +142,7 @@ bard_field:
     content:
       -
         type: text
-        text: 'Ryan might then ask you a question like "If you had to do it all over, what would you do differently?" or "What''s one thing you would tell someone just starting out in business?"  This is your chance to share the wisdom you''ve heard along the way.'
+        text: 'Brian might then ask you a question like "If you had to do it all over, what would you do differently?" or "What''s one thing you would tell someone just starting out in business?"  This is your chance to share the wisdom you''ve heard along the way.'
   -
     type: heading
     attrs:
@@ -156,7 +156,7 @@ bard_field:
     content:
       -
         type: text
-        text: 'Finally, you''ll share your contact details and tell the listeners how they can find your business.  Ryan will be sure to collect this and put it in the show notes. '
+        text: 'Finally, you''ll share your contact details and tell the listeners how they can find your business.  Brian will be sure to collect this and put it in the show notes. '
   -
     type: heading
     attrs:
@@ -192,6 +192,6 @@ bard_field:
       -
         type: text
         text: '.  If you would rather do it online, we can record it from our various desks (although we much prefer to come to your location.)'
-updated_by: 674c22e2-392f-4264-95b6-0d113d0bdcf1
-updated_at: 1648073239
+updated_by: 1c06c6f5-f772-426b-b7e0-b53119a53897
+updated_at: 1648082890
 ---
