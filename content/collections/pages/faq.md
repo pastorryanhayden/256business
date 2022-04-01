@@ -71,7 +71,7 @@ bard_field:
           -
             type: link
             attrs:
-              href: 'https://calendly.com/ryanbuildonline/the-217-business-podcast-interview'
+              href: 'https://calendly.com/256business/256-business-podcast-interview'
               rel: null
               target: null
               title: null
@@ -192,6 +192,6 @@ bard_field:
       -
         type: text
         text: '.  If you would rather do it online, we can record it from our various desks (although we much prefer to come to your location.)'
-updated_by: 1c06c6f5-f772-426b-b7e0-b53119a53897
-updated_at: 1648082890
+updated_by: 674c22e2-392f-4264-95b6-0d113d0bdcf1
+updated_at: 1648481803
 ---
